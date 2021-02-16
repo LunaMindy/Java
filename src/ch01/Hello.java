@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("Hello java2");
 		System.out.println("Hello java3");
 		System.out.println("안녕하세요");
+		System.out.println("code 수정합니다");
 	}
 }
