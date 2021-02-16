@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Hello java1 ");
 		System.out.println("Hello java2");
 		System.out.println("Hello java3");
+		System.out.println("æ»≥Á«œººø‰");
 	}
 }
