@@ -9,5 +9,6 @@ public class Hello {
 		System.out.println("Hello java3");
 		System.out.println("안녕하세요");
 		System.out.println("code 수정합니다");
+		System.out.println("마지막 연습");
 	}
 }
