@@ -4,13 +4,10 @@ public class Example {
 
 	public static void main(String[] args) {
 
-		Korean k1 = new Korean("È«±æµ¿", "123456-1234567");
-		System.out.println(k1.name);
-		System.out.println(k1.ssn);
+		Korean k1 = new Korean();
+		Korean k2 = new Korean("±è¼Ò¶ó");
+		Korean k3 = new Korean("±è¼Ò¶ó","123456-1234567");
 		
-		Korean k2 = new Korean("±èÀÚ¹Ù", "123456-1234567");
-		System.out.println(k2.name);
-		System.out.println(k2.ssn);
 		
 	}
 
