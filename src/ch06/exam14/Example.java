@@ -9,7 +9,9 @@ public class Example {
 
 		Korean k1 = new Korean("123456-1234567");
 		//k1.ssn = "666422-1234556";//final 때문에 안된다.(x)
-	
+		
+		System.out.println(Math.PI);
+		double area = 10 * 10 * Math.PI;
 	
 	}
 
